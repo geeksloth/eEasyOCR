@@ -1,5 +1,5 @@
 # eEasyOCR #
-An edge-version of EasyOCR demonstration
+An edge-version demonstration of EasyOCR.
 
 
 ![Alt text](static/screenshot.png?raw=true "example output")
