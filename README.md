@@ -14,7 +14,7 @@ git clone https://github.com/geeksloth/eEasyOCR.git && cd eEasyOCR
 docker compose up
 ```
 
-- Run on host environment, these following packages are required:
+- Otherwise, run on host environment. These following packages are required:
 ```bash
 python3 -m pip install Flask Pillow easyocr
 ```
