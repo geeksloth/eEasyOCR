@@ -33,4 +33,4 @@ localhost:5002
 ```
 
 ## Configuration ##
-To use this script in your language, modify the ```main.py``` at the line ```ocr = easyocr.Reader(['th', 'en'])``` by add the supported languages refer to official github's page: https://github.com/JaidedAI/EasyOCR
+To use this script in your language, modify the ```main.py``` at the line ```ocr = easyocr.Reader(['th', 'en'])``` by add the supported languages referred to official github's page: https://github.com/JaidedAI/EasyOCR
