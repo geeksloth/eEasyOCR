@@ -1,7 +1,7 @@
 # eEasyOCR #
 An edge-version demonstration of [EasyOCR](https://github.com/JaidedAI/EasyOCR "EasyOCR"). Find text in uploaded image and get response in array format with confidence score.
 
-![Alt text](static/screenshot.png?raw=true "example output")
+![Alt text](static/screenshot2.png?raw=true "example output")
 
 
 ## Getting started ##
