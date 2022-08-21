@@ -1,5 +1,5 @@
 # eEasyOCR #
-An edge-version demonstration of EasyOCR. Find text in uploaded image and response in array format with confidence score.
+An edge-version demonstration of EasyOCR. Find text in uploaded image and get response in array format with confidence score.
 
 
 ![Alt text](static/screenshot.png?raw=true "example output")
