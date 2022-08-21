@@ -33,4 +33,6 @@ localhost:5002
 ```
 
 ## Configuration ##
-To use this script in your language, modify the ```main.py``` at the line ```ocr = easyocr.Reader(['th', 'en'])``` by add the supported languages referred to official github's page: https://github.com/JaidedAI/EasyOCR
+- To use this script in your language, modify the ```main.py``` at the line ```ocr = easyocr.Reader(['th', 'en'])``` by add the supported languages referred to official github's page: https://github.com/JaidedAI/EasyOCR
+- Install ```pytorch``` with GPU support wich work with ```CUDA``` for more performance and efficiency.
+- For NVIDIA device e.g. Jetson series, use the `nvidia runtime` in the `docker-compose.yml` file.
