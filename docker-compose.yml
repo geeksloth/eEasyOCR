@@ -3,12 +3,12 @@ services:
   ocr:
     build:
       context: .
-      dockerfile: "Dockerfile.amd64"
+      dockerfile: "Dockerfile"
     logging:
       driver: "json-file"
       options:
         max-size: "5m"
-    #runtime: nvidia
+    runtime: nvidia
     ports: 
       - 5002:5002
     volumes: 
